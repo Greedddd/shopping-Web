@@ -1,7 +1,9 @@
 JavaEE综合实验<br>
+=====
+简单的购物网站（包括购物车功能）
 ------
-#简单的购物网站（包括购物车功能）
-#使用技术：MongoDB和JSP
+使用技术：MongoDB和JSP
+----
 <br>
 ##实现功能：<br>
 （1）用户登录。（通过查询MongoDB数据库，完成登录认证）<br>
@@ -17,7 +19,7 @@ JavaEE综合实验<br>
 jsp结构，javaBean结构，数据库结构<br>
 <br>
 *登录界面（login.jsp）<br>
- https://github.com/Greedddd/shopping-Web/raw/introduction/图片1.png<br>
+ https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片1.png<br>
  *输入账号密码，传值到login_action.jsp处理后不匹配，跳转到login_Fail.jsp（登录失败页面）：<br>
  https://github.com/Greedddd/shopping-Web/raw/introduction/图片2.png<br>
  *登录页面中注册新账号register.jsp(注册页面)：<br>
