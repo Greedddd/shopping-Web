@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebRoot/Cart.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/header.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/main_shop.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/liuzhen/shop/Cart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/liuzhen/shop/DBBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/liuzhen/shop/HashMapDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/liuzhen/shop/MongodbBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/liuzhen/shop/ShopCartBean.java" charset="GBK" />
+  </component>
+</project>
