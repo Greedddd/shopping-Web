@@ -18,8 +18,8 @@ JavaEE综合实验<br>
 ## 文件结构：<br>
 jsp结构，javaBean结构，数据库结构<br>
 <br>
-* 登录界面（login.jsp）<br>
- ![](https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片1.png)<br>
+**登录界面（login.jsp)**<br>
+ ![](https://github.com/Greedddd/shopping-Web/introduction/图片1.png)<br>
  * 输入账号密码，传值到login_action.jsp处理后不匹配，跳转到login_Fail.jsp（登录失败页面）：<br>
  ![](https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片2.png)<br>
  * 登录页面中注册新账号register.jsp(注册页面)：<br>
