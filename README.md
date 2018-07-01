@@ -19,16 +19,16 @@ JavaEE综合实验<br>
 jsp结构，javaBean结构，数据库结构<br>
 <br>
 *登录界面（login.jsp）<br>
- https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片1.png<br>
+ ![](https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片1.png)<br>
  *输入账号密码，传值到login_action.jsp处理后不匹配，跳转到login_Fail.jsp（登录失败页面）：<br>
- https://github.com/Greedddd/shopping-Web/raw/introduction/图片2.png<br>
+ ![](https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片2.png)<br>
  *登录页面中注册新账号register.jsp(注册页面)：<br>
- https://github.com/Greedddd/shopping-Web/raw/introduction/图片3.png<br>
+ ![](https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片3.png)<br>
  *如果传值到login_action.jsp处理匹配，跳转到welcome.jsp（商品主页面）：<br>
- https://github.com/Greedddd/shopping-Web/raw/introduction/图片4.png<br>
+ ![](https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片4.png)<br>
  *点击购买，传值到Buy.jsp，调用MongoDBBean的Java类进行处理。点击查看购物车，跳转到购物车界面（Cart.jsp）：<br>
- https://github.com/Greedddd/shopping-Web/raw/introduction/图片5.png<br>
+ ![](https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片5.png)<br>
  *登录页面中选择管理员登录adnim.jsp(登录页面)：<br>
-  https://github.com/Greedddd/shopping-Web/raw/introduction/图片6.png<br>
+ ![](https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片6.png)<br>
  *选择增加商品，跳转到good_add.jsp页面，输入商品的信息：<br>
- https://github.com/Greedddd/shopping-Web/raw/introduction/图片7.png<br>
+ ![](https://github.com/Greedddd/shopping-Web/raw/master/introduction/图片7.png)<br>
