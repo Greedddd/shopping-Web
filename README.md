@@ -1,21 +1,16 @@
-# ModernWebPrograming
+# JavaEE综合实验
 
-Editor: Weihong, Lin
+Editor: Caiman Wu
 
-Latest modify: Mon Oct 10 8:53PM
+简单的购物网站（包括购物车功能）
 
 ---
 
-## INTRODUCTION
-
-JavaEE综合实验<br>
-=====
-简单的购物网站（包括购物车功能）
-------
 使用技术：MongoDB和JSP
-----
-<br>
-## 实现功能：<br>
+
+---
+
+## 实现功能：
 （1）用户登录。（通过查询MongoDB数据库，完成登录认证）<br>
 （2）用户注册。（通过写入MongoDB数据库，完成用户注册）<br>
 （3）记住密码。（通过使用Cookie，实现记住首页用户名和密码功能）<br>
