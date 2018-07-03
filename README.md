@@ -1,3 +1,13 @@
+# ModernWebPrograming
+
+Editor: Weihong, Lin
+
+Latest modify: Mon Oct 10 8:53PM
+
+---
+
+## INTRODUCTION
+
 JavaEE综合实验<br>
 =====
 简单的购物网站（包括购物车功能）
